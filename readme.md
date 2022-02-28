@@ -4,7 +4,7 @@ The recommendation based on the underlying idea that is movie will be recommende
 ### Screenshot
 
 ###### Home page
-<img src="https://github.com/Sshashank18/MovieRecommender/blob/master/Screenshots/Homepage.png"
+<img src="https://github.com/Sshashank18/MovieRecommender/blob/master/Homepage.png"
      style="float: left; margin-right: 10px;"/>
 
 ### Technologies Used
@@ -30,22 +30,21 @@ pip3
 ```
 To install Dependencies
 
-```
 pip install -r requirements.txt
 ```
 
 ### Creating Local Server
-
+```
 Goto directory, example
 
-```
 cd ../Movie-Recommendation
-```
+
 To run
-```
+
 streamlit run app.py  or py -m streamlit run app.py
-```
+
 Now open your browser and go to this address
-```
+
 http://localhost:8501/
+
 ```
