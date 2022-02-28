@@ -8,15 +8,19 @@ The recommendation based on the underlying idea that is movie will be recommende
      style="float: left; margin-right: 10px;"/>
 
 ### Technologies Used
-
 #### Web Technologies
+```
 Streamlit
-
+```
 #### Machine Learning Library In Python3
+```
 Numpy , Pandas , AST, NLTK, CountVectorizer, CosineSimilarity
-
+```
 #### Deployed Link
+```
 https://movie-recommender-w.herokuapp.com/
+
+```
 
 ##### Requirements
 ```
